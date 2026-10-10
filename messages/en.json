@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "title": "Virtual Liberation War Museum",
+    "description": "Walk through the 1971 Liberation War of Bangladesh: a 3D museum, an interactive timeline, maps and stories."
+  },
+  "nav": {
+    "home": "Home",
+    "museum": "Museum",
+    "timeline": "Timeline",
+    "map": "Map",
+    "stories": "Stories",
+    "heroes": "Heroes",
+    "sources": "Sources",
+    "about": "About",
+    "menu": "Menu",
+    "close": "Close",
+    "skip": "Skip to content",
+    "switchTo": "বাংলা",
+    "switchLabel": "Switch to Bangla"
+  },
+  "demo": {
+    "banner": "Demo build: illustrative content for development. Every fact must be verified before publishing."
+  },
+  "footer": {
+    "tagline": "In memory of all who gave their lives for the independence of Bangladesh.",
+    "demoNote": "Images are symbolic illustrations, not archival photographs. Stories marked fictional are composites.",
+    "corrections": "Found an error? A corrections form is coming soon."
+  },
+  "home": {
+    "eyebrow": "1971 · Bangladesh",
+    "title": "Virtual Liberation War Museum",
+    "lead": "Nine months that gave birth to a nation. Walk through the galleries, follow the timeline, trace the map and listen to the stories of 1971.",
+    "quote": "“The struggle this time is the struggle for our emancipation; the struggle this time is the struggle for independence.”",
+    "quoteBy": "Bangabandhu Sheikh Mujibur Rahman, 7 March 1971",
+    "enter": "Enter the museum",
+    "explore": "Explore the timeline",
+    "stats": {
+      "months": "9",
+      "monthsLabel": "months of war",
+      "sectors": "11",
+      "sectorsLabel": "war sectors",
+      "victory": "16 Dec",
+      "victoryLabel": "Victory Day"
+    },
+    "cards": {
+      "museum": { "title": "3D Museum", "body": "Walk through six galleries, from the Language Movement to the Hall of Memory." },
+      "timeline": { "title": "Timeline", "body": "From Partition in 1947 to the homecoming of January 1972." },
+      "map": { "title": "Map", "body": "The eleven sectors, refugee routes and the places where history happened." },
+      "stories": { "title": "Stories", "body": "Human stories of families, refugees and those who waited." }
+    },
+    "keyDates": "Key dates",
+    "seeTimeline": "See the full timeline",
+    "approachTitle": "Our approach",
+    "approachBody": "This museum tells the story with dignity. Every fact links to a source, disputed figures are attributed, and graphic material is always behind a warning that you choose to open."
+  },
+  "common": {
+    "sources": "Sources",
+    "relatedEvents": "On the timeline",
+    "relatedExhibits": "In the museum",
+    "relatedStories": "Stories",
+    "places": "Places",
+    "people": "People",
+    "illustration": "Illustration",
+    "demoBadge": "Demo content",
+    "fictional": "Fictional composite",
+    "seeInMuseum": "See in the museum",
+    "showOnMap": "Show on map",
+    "back": "Back",
+    "readMore": "Read more",
+    "contentWarning": "Content warning",
+    "sensitiveBody": "This item describes violence and loss. You can choose whether to view it.",
+    "show": "Show",
+    "continue": "Continue",
+    "minutes": "{count} min read",
+    "gallery": "Gallery",
+    "category": "Category"
+  },
+  "categories": {
+    "political": "Political",
+    "military": "Military",
+    "human-cost": "Human cost",
+    "international": "International",
+    "refugees": "Refugees",
+    "culture": "Culture & radio"
+  },
+  "timeline": {
+    "title": "Timeline",
+    "lead": "From Partition in 1947 to independence. The months of 1971 are shown in detail.",
+    "all": "All",
+    "filter": "Filter by category",
+    "count": "{count, plural, one {# event} other {# events}}",
+    "empty": "No events in this category."
+  },
+  "map": {
+    "title": "Map of 1971",
+    "lead": "Use the slider to move through 1971. Select a place to see what happened there.",
+    "layers": "Layers",
+    "layerEvents": "Events",
+    "layerSectors": "11 sectors",
+    "layerRefugees": "Refugee routes",
+    "month": "Month",
+    "upTo": "Up to {month}",
+    "play": "Play",
+    "pause": "Pause",
+    "sector": "Sector {n}",
+    "approxNote": "Sector positions are approximate labels, not boundaries.",
+    "listView": "List of places",
+    "noEvents": "No events up to this month.",
+    "selectPlace": "Select a place on the map or in the list.",
+    "abroad": "In India"
+  },
+  "stories": {
+    "title": "Stories",
+    "lead": "Personal stories set against the events of 1971.",
+    "fictionalNote": "The stories in this demo are fictional composites set against real events. They are not the testimony of any person.",
+    "read": "Read the story"
+  },
+  "heroes": {
+    "title": "Heroes",
+    "lead": "Leaders of the Liberation War and the seven Bir Sreshtho, the nation's highest gallantry award.",
+    "birSreshtho": "Bir Sreshtho",
+    "leaders": "Leadership",
+    "portraitNote": "Portraits will be added from licensed archives."
+  },
+  "sources": {
+    "title": "Sources",
+    "lead": "Reference works used by the demo content. Each exhibit and event links back here."
+  },
+  "about": {
+    "title": "About this museum",
+    "purposeTitle": "Purpose",
+    "purpose": "The Virtual Liberation War Museum makes the history of 1971 accessible to anyone with a browser, in Bangla and English, on any device.",
+    "methodTitle": "How we treat history",
+    "method": "Every fact links to a source. When sources disagree, especially about the number of people killed, we show who says what instead of a single figure. We never create fake photographs, quotes or testimony.",
+    "warningsTitle": "Content warnings",
+    "warnings": "The genocide gallery and some exhibits describe violence. They are marked, graphic material is hidden until you choose to see it, and you can always skip that gallery.",
+    "demoTitle": "About this demo",
+    "demo": "This is a development build. Images are symbolic illustrations and the two stories are fictional composites. Before launch, all content will be replaced with verified archival material."
+  },
+  "museum": {
+    "title": "The 3D Museum",
+    "lead": "Six galleries, one path. Walk freely or take the guided tour.",
+    "chooseTitle": "How would you like to visit?",
+    "enter3d": "Enter the 3D museum",
+    "enter2d": "Browse galleries without 3D",
+    "recommend2d": "Your device may struggle with 3D. The gallery view shows exactly the same exhibits.",
+    "noWebgl": "Your browser cannot display 3D graphics. Here is the full museum as a gallery view.",
+    "loading": "Preparing the galleries…",
+    "controlsDesktop": "W A S D or arrow keys to walk · drag to look · click an exhibit",
+    "controlsMobile": "Use the joystick to walk · drag to look · tap an exhibit",
+    "exhibitsHere": "Exhibits in this room",
+    "tourStart": "Guided tour",
+    "tourStop": "End tour",
+    "tourNext": "Next",
+    "tourPrev": "Previous",
+    "tourStep": "{n} of {total}",
+    "exit2d": "Gallery view",
+    "to3d": "Back to 3D",
+    "quality": "Quality",
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "close": "Close",
+    "miniMap": "Museum map: select a room to go there",
+    "lightCandle": "Light a candle",
+    "candlesLit": "{count, plural, =0 {No candles lit yet} one {You have lit # candle} other {You have lit # candles}}",
+    "warningTitle": "You are entering the gallery of genocide and loss",
+    "warningBody": "This room remembers people who were killed, violated and driven from their homes. It is quiet by design. Graphic material stays hidden unless you choose to see it.",
+    "warningContinue": "Enter quietly",
+    "warningSkip": "Skip to Victory",
+    "room": "Room {n}",
+    "openExhibit": "Open exhibit",
+    "galleriesTitle": "Galleries",
+    "viewFull": "Open full page"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "This page does not exist, or it has moved.",
+    "home": "Return home"
+  }
+}
